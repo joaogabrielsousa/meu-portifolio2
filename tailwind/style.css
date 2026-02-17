@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+.display{
+    display:none;
+}
+
+h1{
+    font-family: "Bebas Neue",arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
