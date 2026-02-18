@@ -245,6 +245,9 @@
   .h-28 {
     height: calc(var(--spacing) * 28);
   }
+  .w-2xs {
+    width: var(--container-2xs);
+  }
   .w-12 {
     width: calc(var(--spacing) * 12);
   }
