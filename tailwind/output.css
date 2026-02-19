@@ -16,7 +16,6 @@
     --color-black: #000;
     --color-white: #fff;
     --spacing: 0.25rem;
-    --container-3xs: 16rem;
     --container-2xs: 18rem;
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
@@ -376,11 +375,6 @@
       @media (hover: hover) {
         animation-play-state: paused;
       }
-    }
-  }
-  .sm\:animate-loop-scroll {
-    @media (width >= 40rem) {
-      animation: var(--animate-loop-scroll);
     }
   }
   .sm\:grid-cols-2 {
